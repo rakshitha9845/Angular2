@@ -1,0 +1,7 @@
+.navbar{
+    display: flex;
+    justify-content: space-evenly;
+}
+.navbar a{
+    text-decoration: none;
+}
